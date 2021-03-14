@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="14"/>
+<entry key="ignoredColumns" type="xint" value="1"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="61"/>
+<entry key="1" type="xint" value="62"/>
+<entry key="2" type="xint" value="55"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="13"/>
+<entry key="0" type="xdouble" value="0.7056514236410703"/>
+<entry key="1" type="xdouble" value="0.24842869176440097"/>
+<entry key="2" type="xdouble" value="0.5849040063119136"/>
+<entry key="3" type="xdouble" value="0.34443129964509034"/>
+<entry key="4" type="xdouble" value="0.4107270135424092"/>
+<entry key="5" type="xdouble" value="0.6421141888072359"/>
+<entry key="6" type="xdouble" value="0.5546793940651589"/>
+<entry key="7" type="xdouble" value="0.3003402412619858"/>
+<entry key="8" type="xdouble" value="0.4772715519470444"/>
+<entry key="9" type="xdouble" value="0.3553404576735858"/>
+<entry key="10" type="xdouble" value="0.4778088764494203"/>
+<entry key="11" type="xdouble" value="0.6903861166156249"/>
+<entry key="12" type="xdouble" value="0.5938939688033489"/>
+</config>
+<config key="kMeansCluster1">
+<entry key="array-size" type="xint" value="13"/>
+<entry key="0" type="xdouble" value="0.31137521222410885"/>
+<entry key="1" type="xdouble" value="0.2368991457350503"/>
+<entry key="2" type="xdouble" value="0.4729170260479558"/>
+<entry key="3" type="xdouble" value="0.4999168606584636"/>
+<entry key="4" type="xdouble" value="0.24772089761570829"/>
+<entry key="5" type="xdouble" value="0.453058954393771"/>
+<entry key="6" type="xdouble" value="0.38240097999183326"/>
+<entry key="7" type="xdouble" value="0.41174680462568475"/>
+<entry key="8" type="xdouble" value="0.3974254604660629"/>
+<entry key="9" type="xdouble" value="0.14773477925795434"/>
+<entry key="10" type="xdouble" value="0.4735116706005772"/>
+<entry key="11" type="xdouble" value="0.5889755405884441"/>
+<entry key="12" type="xdouble" value="0.15640099397174545"/>
+</config>
+<config key="kMeansCluster2">
+<entry key="array-size" type="xint" value="13"/>
+<entry key="0" type="xdouble" value="0.5446889952153113"/>
+<entry key="1" type="xdouble" value="0.47844053180021545"/>
+<entry key="2" type="xdouble" value="0.5601361205639279"/>
+<entry key="3" type="xdouble" value="0.5383317713214623"/>
+<entry key="4" type="xdouble" value="0.3114624505928854"/>
+<entry key="5" type="xdouble" value="0.2447648902821317"/>
+<entry key="6" type="xdouble" value="0.10713463751438435"/>
+<entry key="7" type="xdouble" value="0.6185248713550602"/>
+<entry key="8" type="xdouble" value="0.228276455405793"/>
+<entry key="9" type="xdouble" value="0.4826403955941669"/>
+<entry key="10" type="xdouble" value="0.192549889135255"/>
+<entry key="11" type="xdouble" value="0.1609057609057609"/>
+<entry key="12" type="xdouble" value="0.24739981844118789"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="14"/>
+<entry key="0" type="xstring" value="Alcohol"/>
+<entry key="1" type="xstring" value="Malic acid"/>
+<entry key="2" type="xstring" value="Ash"/>
+<entry key="3" type="xstring" value="Alcalinity of ash"/>
+<entry key="4" type="xstring" value="Magnesium"/>
+<entry key="5" type="xstring" value="Total phenols"/>
+<entry key="6" type="xstring" value="Flavanoids"/>
+<entry key="7" type="xstring" value="Nonflavanoid phenols"/>
+<entry key="8" type="xstring" value="Proanthocyanins"/>
+<entry key="9" type="xstring" value="Color intensity"/>
+<entry key="10" type="xstring" value="Hue"/>
+<entry key="11" type="xstring" value="OD280/OD315 of diluted wines"/>
+<entry key="12" type="xstring" value="Proline"/>
+<entry key="13" type="xstring" isnull="true" value=""/>
+</config>
+</config>
